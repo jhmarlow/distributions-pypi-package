@@ -1,0 +1,10 @@
+setup.py
+udacityds_distributions_jacob/Binomialdistribution.py
+udacityds_distributions_jacob/Gaussiandistribution.py
+udacityds_distributions_jacob/Generaldistribution.py
+udacityds_distributions_jacob/__init__.py
+udacityds_distributions_jacob.egg-info/PKG-INFO
+udacityds_distributions_jacob.egg-info/SOURCES.txt
+udacityds_distributions_jacob.egg-info/dependency_links.txt
+udacityds_distributions_jacob.egg-info/not-zip-safe
+udacityds_distributions_jacob.egg-info/top_level.txt
